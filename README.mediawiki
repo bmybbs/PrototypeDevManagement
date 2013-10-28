@@ -1,6 +1,8 @@
-==进度安排==
+==进度安排计划==
 
 总体目标：12月2日有一个可以演示使用的新web，保证核心功能可用。
+
+该列表中是计划中的工作项或者需求，实际实施参见相应的交付时间链接。
 
 {|
 |-
@@ -12,8 +14,8 @@
 |-
 | [https://github.com/bmybbs/ExtDevMng/issues?milestone=1 10.14~10.20]
 |
-* 提供通用的布局、样式
-* 提供导读的草稿
+* [https://github.com/bmybbs/ExtDevMng/issues/9 提供通用的布局、样式]
+* [https://github.com/bmybbs/ExtDevMng/issues/9 提供导读的草稿]
 |
 * ember.js 的使用研究
 * 登录页面
@@ -25,11 +27,11 @@
 * 模板页面样式
 |
 * onion 的使用研究（例如多线程）
-* 登录退出
-* 校验缓存信息
+* [https://github.com/bmybbs/ExtDevMng/issues/4 登录退出]
+* [https://github.com/bmybbs/ExtDevMng/issues/4 校验缓存信息]
 
 |-
-| 10.21~10.27
+| [https://github.com/bmybbs/ExtDevMng/issues?milestone=2 10.21~10.27]
 |
 * 导读页
 * 版面帖子列表草稿
@@ -37,12 +39,12 @@
 * 导读页
 ** 抓去热门话题（待定）
 |
-* 分区热门话题
-* 十大热门话题
-* 推荐话题
+* [https://github.com/bmybbs/ExtDevMng/issues/18 分区热门话题]
+* [https://github.com/bmybbs/ExtDevMng/issues/18 十大热门话题]
+* [https://github.com/bmybbs/ExtDevMng/issues/19 推荐话题]
 
 |-
-| 10.28~11.3
+| [https://github.com/bmybbs/ExtDevMng/issues?milestone=3 10.28~11.3]
 |
 * 版面
 * 收藏夹（草稿）
@@ -52,8 +54,9 @@
 * 能够获取、显示版面帖子列表
 ** 可以考虑分页的方式，暂不考虑 ajax 特效
 |
-* 版面帖子列表
-* 版面主题列表
+* [https://github.com/bmybbs/ExtDevMng/issues/20 版面帖子列表]
+* [https://github.com/bmybbs/ExtDevMng/issues/21 版面主题列表]
+* [https://github.com/bmybbs/ExtDevMng/issues/23 收藏夹]
 
 |-
 | 11.4~11.10
@@ -62,33 +65,33 @@
 |
 * 收藏夹列表
 |
-* 收藏夹
+
 
 |-
-| 11.11~11.17
+| [https://github.com/bmybbs/ExtDevMng/issues?milestone=4 11.11~11.17]
 |
 * 帖子阅读、发帖
 |
 * 细节修正
 |
-* 帖子主题列表
-* 帖子内容
-* 发帖
+* [https://github.com/bmybbs/ExtDevMng/issues/24 帖子主题列表]
+* [https://github.com/bmybbs/ExtDevMng/issues/25 帖子内容]
+* [https://github.com/bmybbs/ExtDevMng/issues/27 发帖]
 
 |-
-| 11.18~11.24
+| [https://github.com/bmybbs/ExtDevMng/issues?milestone=4 11.18~11.24]
 |
 * 回帖样式、转载样式
 * 细节修正
 |
 * 帖子阅读样式、发帖样式及功能
 |
-* 回帖接口
+* [https://github.com/bmybbs/ExtDevMng/issues/28 回帖接口]
 * app信息存储及读取（用于在帖子尾部自动标注来源）
-* 转载接口
+* [https://github.com/bmybbs/ExtDevMng/issues/30 转载接口]
 
 |-
-| 11.25~12.1
+| [https://github.com/bmybbs/ExtDevMng/issues?milestone=5 11.25~12.1]
 |
 * 细节修正
 |
