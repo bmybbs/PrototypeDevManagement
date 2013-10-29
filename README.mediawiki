@@ -104,3 +104,6 @@
 | colspan="3" align="center"|'''上线'''，细节修正
 
 |}
+
+==其他==
+* [https://github.com/xw2423/nForum/wiki/nForum-API nForum-API] 设计参考
